@@ -109,7 +109,7 @@ export default function FarmerScreen() {
         <ThemedText type="subtitle">Producer input</ThemedText>
         <TextInput
           style={styles.input}
-          placeholder="Crop name (e.g. Tomatoes)"
+          placeholder="Crop name (e.g. Tomatees)"
           value={cropName}
           onChangeText={setCropName}
           placeholderTextColor="#6D7A88"
